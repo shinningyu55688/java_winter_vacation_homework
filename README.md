@@ -8,8 +8,8 @@ The workspace contains:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
-- `flow_chart_src`: the folder for the design flow chart using Affinity Designer
-- `MainHomeWork_File`: the doc of the main homework
+- `flow_chart_src`: the folder for the flow chart using Affinity Designer
+- `MainHomeWork_File`: the doc of the homework
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
